@@ -177,11 +177,14 @@ Each student must:
 - Submit a screenshot of their terminal showing `git log` from their personal branch.
 - Provide a link to their branch in the repository.
 - Ensure that `notes.txt` and README updates are visible in their branch on GitHub.
+CARPIO-CS_3-4/202302454
+\n## Additional Notes\nThis is an update
 BARRO_CS_3-4/202302759
 "\n## Additional Notes\nThis is an update." 
 
 CLEOFAS-CS_3-4/202301458
 \n## Additional Notes\nThis is an update.
 "\n## Additional Notes\nThis is an update." 
+main
 main
 main
